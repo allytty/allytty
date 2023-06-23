@@ -1,10 +1,10 @@
-### Ola bem, viados 
-meu nome é luana 
+### Ola bem, vios! 
+meu nome é Luana 
 
-- etou estuudando no [alura](https://www.alura.com.br)
+- estou estuudando no [alura](https://www.alura.com.br)
 - estou usando essa plataforma para organizar e compartilha meus projetos
 
-  ### voce pode entrar em contato comigo
+  ### você pode entrar em contato comigo
   bajimoranguinho@gmail.com
 
 
