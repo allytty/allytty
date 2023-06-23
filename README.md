@@ -1,13 +1,11 @@
-### bem vindos ao meu perfil galerinha da net
+### Ola bem, viados 
+meu nome é luana 
 
+- etou estuudando no [alura](https://www.alura.com.br)
+- estou usando essa plataforma para organizar e compartilha meus projetos
 
-
-
-
-
-
-
-
+  ### voce pode entrar em contato comigo
+  bajimoranguinho@gmail.com
 
 
 
